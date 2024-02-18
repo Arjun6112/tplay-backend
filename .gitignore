@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for public files
+public/uploads
+
+# Dependency directories
+node_modules
+
+# Environment variables
+.env
+
+# Operating System Files
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+
+# Compiled binary addons
+build/Release
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+duck.js
+/tmp
